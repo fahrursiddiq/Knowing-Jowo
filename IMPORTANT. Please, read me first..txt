@@ -1,0 +1,14 @@
+/*---------------------------------Knowing Jowo-----------------------------------------*/
+
+
+Edit ya ada bug dimananya
+
+v1.0
+- masih sampe level 4 doang
+- prambanan sampe pahlawan belum di lock
+- benerin bug di kesempatan tiap level
+- benerin bug checklist di papan quest
+
+v1.1
+- level nambah sampe prambanan
+- lawang sewu belum di lock

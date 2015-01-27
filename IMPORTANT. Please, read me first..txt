@@ -12,3 +12,7 @@ v1.0
 v1.1
 - level nambah sampe prambanan
 - lawang sewu belum di lock
+
+v1.2
+- level nambah sampe pahlawan
+- bagian shop belum ada
